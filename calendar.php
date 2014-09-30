@@ -1,7 +1,7 @@
 <?php
 use \Punic\Calendar;
 
-include '../vendor/autoload.php';
+include 'vendor/autoload.php';
 
 $dt = Calendar::toDateTime('2010-03-07');
 
