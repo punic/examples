@@ -1,5 +1,5 @@
 <?php
-use \Punic\Phone;
+use Punic\Phone;
 
 include 'vendor/autoload.php';
 
