@@ -1,5 +1,5 @@
 <?php
-use \Punic\Currency;
+use Punic\Currency;
 
 include 'vendor/autoload.php';
 

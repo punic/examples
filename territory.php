@@ -1,5 +1,5 @@
 <?php
-use \Punic\Territory;
+use Punic\Territory;
 
 include 'vendor/autoload.php';
 

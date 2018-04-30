@@ -1,5 +1,5 @@
 <?php
-use \Punic\Unit;
+use Punic\Unit;
 
 // This will output `2 Millisekunden`
 echo Unit::format(2, 'millisecond', 'long', 'de');

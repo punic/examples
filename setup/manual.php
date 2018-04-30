@@ -1,5 +1,5 @@
 <?php
-use \Punic\Unit;
+use Punic\Unit;
 
 include 'path/to/punic.php';
 
